@@ -1,0 +1,10 @@
+  .text-label {
+      /* Base styles */
+  }
+
+  @media screen and (max-width: 600px) {
+      .text-label {
+          /* Adjust styles for smaller screens */
+      }
+  }
+  
